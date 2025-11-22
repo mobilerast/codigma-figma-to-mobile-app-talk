@@ -13,5 +13,5 @@ This repo contains the slides and links for a short talk on turning Figma design
 ## Links
 
 - Try Codigma.io: https://codigma.io
-- Slides on SpeakerDeck: [<link>](https://speakerdeck.com/mehmetakifalp/from-figma-design-to-react-native-mobile-app-with-codigma-dot-io)
-- SlideShare deck: [<link>](https://www.slideshare.net/slideshow/codigma-io-v3-0-0-design-to-mobile-app/284236089#9)
+- Slides on SpeakerDeck: https://speakerdeck.com/mehmetakifalp/from-figma-design-to-react-native-mobile-app-with-codigma-dot-io 
+- SlideShare deck: https://www.slideshare.net/slideshow/codigma-io-v3-0-0-design-to-mobile-app/284236089#9 
