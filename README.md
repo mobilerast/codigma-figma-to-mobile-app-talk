@@ -1,28 +1,17 @@
-# codigma-figma-to-mobile-app-talk
+# From Figma Design to React Native Mobile App with Codigma.io
 
-Slides and resources for a short talk on turning Figma designs into React Native mobile apps with **Codigma.io**.
+Codigma.io is an AI-powered **Figma to React Native code** tool.  
+This repo contains the slides and links for a short talk on turning Figma designs into real mobile apps in minutes.
 
-## What is this?
+## What you’ll learn
 
-This repo contains:
-
-- The slide deck (PDF or PPT)
-- Example links or code snippets (if needed later)
-- Basic info on how Codigma.io works with Figma and React Native
-
-## Talk summary
-
-In this talk, we walk through a simple flow:
-
-1. Design a screen in **Figma**
-2. Send the selected layer or screen to **Codigma.io**
-3. Let Codigma generate **React Native** code
-4. Preview it in **Expo Snack** on iOS and Android
-5. Download the project and continue building
-
-The goal is to save time on front-end work and move faster from design to real mobile app.
+- How to turn any Figma frame into a React Native screen
+- How Codigma.io reads your Figma layers and generates clean layout & styles
+- How to preview your app on iOS & Android via Expo Snack (QR code)
+- How to download and extend the generated React Native project
 
 ## Links
 
-- 🔗 Codigma.io: https://codigma.io  
-- 🏢 Rast Mobile: https://www.linkedin.com/company/rastmobile
+- Try Codigma.io: https://codigma.io
+- Slides on SpeakerDeck: [<link>](https://speakerdeck.com/mehmetakifalp/from-figma-design-to-react-native-mobile-app-with-codigma-dot-io)
+- SlideShare deck: [<link>](https://www.slideshare.net/slideshow/codigma-io-v3-0-0-design-to-mobile-app/284236089#9)
